@@ -7,3 +7,4 @@ function RemoveMark(input) {
 console.log(RemoveMark("H!"));
 console.log(RemoveMark("H!!!!!"));
 console.log(RemoveMark("H"));
+console.log(RemoveMark("H12321!!!"));
